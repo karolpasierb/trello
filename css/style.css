@@ -18,6 +18,7 @@ button {
 ul {
 	list-style-type: none;
 	padding: 0;
+	min-height: 50px;
 }
 .column {
 	float: left;
